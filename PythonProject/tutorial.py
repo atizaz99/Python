@@ -1,0 +1,5 @@
+print("m h madadi")
+print(5)
+print(0.1)
+print("333sdhfhhg")
+print("2334")

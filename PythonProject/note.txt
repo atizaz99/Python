@@ -1,0 +1,17 @@
+python don't have switch statment
+polymorphoism
+types
+run time
+compile time
+function overeloading 
+function overiding
+
+encapsulation
+    closely copule
+abstraction:
+    you don't know what happen behind the scene
+
+constructor
+instance
+method
+function
